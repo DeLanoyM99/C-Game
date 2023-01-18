@@ -1,1 +1,1 @@
-# C-Game
+# Sparty Cash Grab game in C++
